@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+features: [app-name, data, data-jpa, gradle, groovy, groovy-application, h2, hibernate-jpa, http-client, jdbc-hikari, junit, logback, netty-server, readme, shade, yaml]
